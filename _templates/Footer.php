@@ -11,7 +11,7 @@
                             <div class="footer-widget about-widget">
                                 <ul class="social-links">
                                     <li>
-                                        <a href="#"><span class="fa fa-twitter"></span></a>
+                                        <a href="#"><span class="fa fa-youtube"></span></a>
                                     </li>
                                     <li>
                                         <a href="#"><span class="fa fa-pinterest-p"></span></a>
@@ -22,16 +22,13 @@
                                     <li>
                                         <a href="#"><span class="fa fa-instagram"></span></a>
                                     </li>
-                                    <li>
-                                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                                    </li>
                                 </ul>
                                 <div class="text">
                                     Sit eit malis civibus kase iuvaret bandit no kec, ipsum
                                     volumus indis aissentias referrentur vix euno utamur.
                                 </div>
                                 <div class="copyright">
-                                    <span>Title</span> - Design & Architect <br />
+                                    - Rio Graintes <br />
                                     &copy; All rights reserved.
                                 </div>
                             </div>
@@ -40,12 +37,12 @@
                         <!--Footer Column-->
                         <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                             <div class="footer-widget links-widget">
-                                <h2>What we do</h2>
+                                <h2>Quick Links</h2>
                                 <ul class="footer-list">
-                                    <li><a href="#">Architecture</a></li>
-                                    <li><a href="#">Home Lighting</a></li>
-                                    <li><a href="#">Landscape Design</a></li>
-                                    <li><a href="#">Floor Planning</a></li>
+                                    <li><a href="granite.php">Granites</a></li>
+                                    <li><a href="quartz.php">Quartz</a></li>
+                                    <li><a href="tiles.php">Tiles</a></li>
+                                    <li><a href="other-stones.php">Other Stones</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -58,12 +55,11 @@
                         <!--Footer Column-->
                         <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                             <div class="footer-widget links-widget">
-                                <h2>Sitemap</h2>
+                                <h2>Usefull Links</h2>
                                 <ul class="footer-list">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Contact us</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -77,7 +73,7 @@
                                     <li><span>Tamil Nadu-600095.</span></li>
                                     <li>
                                         Phone:
-                                        <span><a href="tel:07010147530">70101 47530</a></span>
+                                        <span><a href="tel:+917010147530">70101 47530</a></span>
                                     </li>
                                     <li>
                                         Email:

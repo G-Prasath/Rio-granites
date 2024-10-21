@@ -2,11 +2,11 @@
         <!--Header-Upper-->
         <div class="header-upper">
           <div class="outer-container">
-            <div class="clearfix">
+            <div class="clearfix header-mob-alter">
               <div class="pull-left logo-box">
                 <div class="logo">
-                  <a href="index.html"
-                    ><h2>RIO GRANITES</h2></a>
+                  <a href="index.php"
+                    ><img src="./images/home/logos.jpeg" style="width: 100px; border-radius: 100%;" alt="Logo"></a>
                 </div>
               </div>
 
@@ -46,7 +46,7 @@
                         <ul>
                           <li><a href="granite.php">Granites</a></li>
                           <li>
-                            <a href="Marbles.php">Marbles</a>
+                            <a href="quartz.php">Quartz</a>
                           </li>
                           <li>
                             <a href="tiles.php">Tiles</a>
@@ -67,7 +67,7 @@
               <div class="social-outer-box">
                 <ul class="social-links">
                   <li>
-                    <a href="#"><span class="fa fa-twitter"></span></a>
+                    <a href="#"><span class="fa fa-youtube"></span></a>
                   </li>
                   <li>
                     <a href="#"><span class="fa fa-pinterest-p"></span></a>
@@ -77,9 +77,6 @@
                   </li>
                   <li>
                     <a href="#"><span class="fa fa-instagram"></span></a>
-                  </li>
-                  <li>
-                    <a href="#"><span class="fa fa-linkedin"></span></a>
                   </li>
                 </ul>
               </div>
@@ -93,8 +90,8 @@
           <div class="auto-container clearfix">
             <!--Logo-->
             <div class="logo pull-left">
-              <a href="index.html" class="img-responsive"
-                ><h2>RIO GRANITES</h2></a>
+              <a href="index.php" class="img-responsive"
+                ><img src="./images/home/logos.jpeg" style="width: 100px; border-radius: 50%;" alt="Logo"></a>
             </div>
 
             <!--Right Col-->
@@ -126,8 +123,7 @@
           <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
           <nav class="menu-box">
             <div class="nav-logo">
-              <a href="index.html"
-                  ><h2>RIO GRANITES</h2></a>
+             
             </div>
 
             <ul class="navigation clearfix">

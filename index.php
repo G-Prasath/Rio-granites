@@ -65,17 +65,23 @@
               data-description="Slide Description"
               data-index="rs-1688"
               data-slotamount="default"
-              data-thumb="images/main-slider/1.jpg"
+              data-thumb="images/home/home-banner-1.avif"
               data-title="Slide Title">
-              <img
-                alt=""
+              <div
                 class="rev-slidebg"
-                data-bgfit="cover"
-                data-bgparallax="10"
-                data-bgposition="center center"
-                data-bgrepeat="no-repeat"
-                data-no-retina=""
-                src="images/main-slider/1.jpg" />
+                style="
+                        background: linear-gradient(
+                          rgba(0, 0, 0, 0.3), 
+                          rgba(0, 0, 0, 0.3)
+                        ), url('images/home/home-banner-1.avif');
+                        background-position: center center;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        height: 100%; /* Adjust this based on your layout */
+                        width: 100%;"
+                alt="Banner Home">
+              </div>
+
 
               <div
                 class="tp-caption"
@@ -99,7 +105,6 @@
                   Extensive selection .
                 </h2>
               </div>
-
               <div
                 class="tp-caption"
                 data-paddingbottom="[0,0,0,0]"
@@ -121,7 +126,6 @@
                   Bespoke Luxury & Architecture Designing
                 </div>
               </div>
-
               <div
                 class="tp-caption tp-resizeme"
                 data-paddingbottom="[0,0,0,0]"
@@ -151,17 +155,22 @@
               data-description="Slide Description"
               data-index="rs-1689"
               data-slotamount="default"
-              data-thumb="images/main-slider/2.jpg"
+              data-thumb="images/home/home-banner-2.avif"
               data-title="Slide Title">
-              <img
-                alt=""
+              <div
                 class="rev-slidebg"
-                data-bgfit="cover"
-                data-bgparallax="10"
-                data-bgposition="center center"
-                data-bgrepeat="no-repeat"
-                data-no-retina=""
-                src="images/main-slider/2.jpg" />
+                style="
+                        background: linear-gradient(
+                          rgba(0, 0, 0, 0.3), 
+                          rgba(0, 0, 0, 0.3)
+                        ), url('images/home/home-banner-2.avif');
+                        background-position: center center;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        height: 100%; /* Adjust this based on your layout */
+                        width: 100%;"
+                alt="Banner Home">
+              </div>
 
               <div
                 class="tp-caption"
@@ -322,11 +331,11 @@
                 <div class="services-block-two">
                   <div class="inner-box">
                     <div class="image">
-                      <img src="images/resource/service-4.jpg" alt="" />
+                      <img src="images/home/granite-service.avif" alt="" />
                       <div class="overlay-box">
-                        <h3><a href="#">Floor Plans</a></h3>
+                        <h3><a href="javascript:;">Granites</a></h3>
                         <div class="links-box">
-                          <a class="link" href="service-plans.html"><span class="fa fa-link"></span></a>
+                          <a class="link" href="granite.php"><span class="fa fa-link"></span></a>
                         </div>
                       </div>
                     </div>
@@ -337,11 +346,11 @@
                 <div class="services-block-two">
                   <div class="inner-box">
                     <div class="image">
-                      <img src="images/resource/service-5.jpg" alt="" />
+                      <img src="images/home/quartz-service.avif" alt="" />
                       <div class="overlay-box">
-                        <h3><a href="#">Interiors</a></h3>
+                        <h3><a href="javascript:;">Quartz</a></h3>
                         <div class="links-box">
-                          <a class="link" href="service-interior.html"><span class="fa fa-link"></span></a>
+                          <a class="link" href="quartz.php"><span class="fa fa-link"></span></a>
                         </div>
                       </div>
                     </div>
@@ -352,62 +361,17 @@
                 <div class="services-block-two">
                   <div class="inner-box">
                     <div class="image">
-                      <img src="images/resource/service-6.jpg" alt="" />
+                      <img src="images/home/tiles-service.avif" alt="" />
                       <div class="overlay-box">
-                        <h3><a href="#">Architectures</a></h3>
+                        <h3><a href="javascript:;">Tiles</a></h3>
                         <div class="links-box">
-                          <a class="link" href="service-architecture.html"><span class="fa fa-link"></span></a>
+                          <a class="link" href="tiles.php"><span class="fa fa-link"></span></a>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
 
-                <!-- Services Block Two -->
-                <div class="services-block-two">
-                  <div class="inner-box">
-                    <div class="image">
-                      <img src="images/resource/service-4.jpg" alt="" />
-                      <div class="overlay-box">
-                        <h3><a href="#">Floor Plans</a></h3>
-                        <div class="links-box">
-                          <a class="link" href="service-plans.html"><span class="fa fa-link"></span></a>
-                          
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Services Block Two -->
-                <div class="services-block-two">
-                  <div class="inner-box">
-                    <div class="image">
-                      <img src="images/resource/service-5.jpg" alt="" />
-                      <div class="overlay-box">
-                        <h3><a href="#">Interiors</a></h3>
-                        <div class="links-box">
-                          <a class="link" href="service-interior.html"><span class="fa fa-link"></span></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Services Block Two -->
-                <div class="services-block-two">
-                  <div class="inner-box">
-                    <div class="image">
-                      <img src="images/resource/service-6.jpg" alt="" />
-                      <div class="overlay-box">
-                        <h3><a href="#">Architectures</a></h3>
-                        <div class="links-box">
-                          <a class="link" href="service-architecture.html"><span class="fa fa-link"></span></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
 
               <div
@@ -436,7 +400,7 @@
                   data-wow-delay="0ms"
                   data-wow-duration="1500ms">
                   <div class="image">
-                    <img src="images/resource/story-1.jpg" alt="" />
+                    <img src="images/home/features.avif" alt="" />
                   </div>
                 </div>
               </div>
@@ -447,7 +411,7 @@
                 <div class="sec-title">
                   <div class="inner-title">
                     <div class="title">story</div>
-                    <h2>Power of Decysions.</h2>
+                    <h2>Features</h2>
                   </div>
                 </div>
                 <div
@@ -490,7 +454,7 @@
                   data-wow-delay="0ms"
                   data-wow-duration="1500ms">
                   <div class="image">
-                    <img src="images/resource/story-2.jpg" alt="" />
+                    <img src="images/home/advantage.avif" alt="" />
                   </div>
                 </div>
               </div>
@@ -501,7 +465,7 @@
                 <div class="sec-title">
                   <div class="inner-title">
                     <div class="title">story</div>
-                    <h2>Strength of Planning .</h2>
+                    <h2>Advantages</h2>
                   </div>
                 </div>
                 <div
@@ -546,18 +510,17 @@
             <div class="project-block">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/gallery/1.jpg" alt="" />
+                  <img src="images/home/gallery/cosmic-rust.avif" alt="" />
                   <!-- Overlay Box -->
                   <div class="overlay-box">
                     <div class="overlay-inner">
                       <div class="overlay-content">
                         <a
                           class="plus"
-                          href="images/gallery/1.jpg"
+                          href="images/home/gallery/cosmic-rust.avif"
                           data-fancybox="gallery-1"
                           data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
+                        <h3>Cosmic Rust</h3>
                       </div>
                     </div>
                   </div>
@@ -569,43 +532,17 @@
             <div class="project-block">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/gallery/2.jpg" alt="" />
+                  <img src="images/home/gallery/crolial-choco.avif" alt="" />
                   <!-- Overlay Box -->
                   <div class="overlay-box">
                     <div class="overlay-inner">
                       <div class="overlay-content">
                         <a
                           class="plus"
-                          href="images/gallery/2.jpg"
+                          href="images/home/gallery/crolial-choco.avif"
                           data-fancybox="gallery-1"
                           data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="column col-lg-3 col-md-6 col-sm-12">
-            <!-- Project Block -->
-            <div class="project-block">
-              <div class="inner-box">
-                <div class="image">
-                  <img src="images/gallery/3.jpg" alt="" />
-                  <!-- Overlay Box -->
-                  <div class="overlay-box">
-                    <div class="overlay-inner">
-                      <div class="overlay-content">
-                        <a
-                          class="plus"
-                          href="images/gallery/3.jpg"
-                          data-fancybox="gallery-1"
-                          data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
+                        <h3>Crolial Choco</h3>
                       </div>
                     </div>
                   </div>
@@ -619,41 +556,17 @@
             <div class="project-block">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/gallery/4.jpg" alt="" />
+                  <img src="images/home/gallery/cronial-crema.avif" alt="" />
                   <!-- Overlay Box -->
                   <div class="overlay-box">
                     <div class="overlay-inner">
                       <div class="overlay-content">
                         <a
                           class="plus"
-                          href="images/gallery/4.jpg"
+                          href="images/home/gallery/cronial-crema.avif"
                           data-fancybox="gallery-1"
                           data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Project Block -->
-            <div class="project-block">
-              <div class="inner-box">
-                <div class="image">
-                  <img src="images/gallery/5.jpg" alt="" />
-                  <!-- Overlay Box -->
-                  <div class="overlay-box">
-                    <div class="overlay-inner">
-                      <div class="overlay-content">
-                        <a
-                          class="plus"
-                          href="images/gallery/5.jpg"
-                          data-fancybox="gallery-1"
-                          data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
+                        <h3>Cronial Crema</h3>
                       </div>
                     </div>
                   </div>
@@ -667,18 +580,17 @@
             <div class="project-block">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/gallery/6.jpg" alt="" />
+                  <img src="images/home/gallery/crystal-series-azul.avif" alt="" />
                   <!-- Overlay Box -->
                   <div class="overlay-box">
                     <div class="overlay-inner">
                       <div class="overlay-content">
                         <a
                           class="plus"
-                          href="images/gallery/6.jpg"
+                          href="images/home/gallery/crystal-series-azul.avif"
                           data-fancybox="gallery-1"
                           data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
+                        <h3>Crystal Series Azul</h3>
                       </div>
                     </div>
                   </div>
@@ -690,18 +602,63 @@
             <div class="project-block">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/gallery/7.jpg" alt="" />
+                  <img src="images/home/gallery/florida-pearl.avif" alt="" />
                   <!-- Overlay Box -->
                   <div class="overlay-box">
                     <div class="overlay-inner">
                       <div class="overlay-content">
                         <a
                           class="plus"
-                          href="images/gallery/7.jpg"
+                          href="images/home/gallery/florida-pearl.avif"
                           data-fancybox="gallery-1"
                           data-caption=""><span class="flaticon-full-screen"></span></a>
-                        <h3>Portion Interior</h3>
-                        <div class="category">Home Design</div>
+                        <h3>Florida Pearl</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="column col-lg-3 col-md-6 col-sm-12">
+            <!-- Project Block -->
+            <div class="project-block">
+              <div class="inner-box">
+                <div class="image">
+                  <img src="images/home/gallery/grainte.avif" alt="" />
+                  <!-- Overlay Box -->
+                  <div class="overlay-box">
+                    <div class="overlay-inner">
+                      <div class="overlay-content">
+                        <a
+                          class="plus"
+                          href="images/home/gallery/grainte.avif"
+                          data-fancybox="gallery-1"
+                          data-caption=""><span class="flaticon-full-screen"></span></a>
+                        <h3>Grainte Stone</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Project Block -->
+            <div class="project-block">
+              <div class="inner-box">
+                <div class="image">
+                  <img src="images/home/gallery/vietnam-white.avif" alt="" />
+                  <!-- Overlay Box -->
+                  <div class="overlay-box">
+                    <div class="overlay-inner">
+                      <div class="overlay-content">
+                        <a
+                          class="plus"
+                          href="images/home/gallery/vietnam-white.avif"
+                          data-fancybox="gallery-1"
+                          data-caption=""><span class="flaticon-full-screen"></span></a>
+                        <h3>Vietnam White</h3>
                       </div>
                     </div>
                   </div>
@@ -733,7 +690,7 @@
           <div class="counter-block col-lg-3 col-md-6 col-sm-12">
             <div class="inner-box row">
               <div class="image">
-                <img src="images/resource/counter-1.jpg" alt="" />
+                <img src="images/home/funfact-1.avif" alt="" />
               </div>
               <div class="content-box">
                 <div class="count-box">
@@ -754,7 +711,7 @@
                 <div class="text">crazy thinkers</div>
               </div>
               <div class="image">
-                <img src="images/resource/counter-2.jpg" alt="" />
+                <img src="images/home/funfact-2.avif" alt="" />
               </div>
             </div>
           </div>
@@ -763,7 +720,7 @@
           <div class="counter-block col-lg-3 col-md-6 col-sm-12">
             <div class="inner-box row">
               <div class="image">
-              <img src="images/resource/counter-3.jpg" alt="" />
+                <img src="images/home/funfact-3.avif" alt="" />
               </div>
               <div class="content-box">
                 <div class="count-box">
