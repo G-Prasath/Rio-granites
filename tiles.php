@@ -1,9 +1,48 @@
+<?php
+$galleryItems = [
+	[
+		'image' => 'images/tiles/email-white.avif',
+		'content' => 'Email White'
+	],
+	[
+		'image' => 'images/tiles/sliver-river-smoke.avif',
+		'content' => 'Sliver River Smoke'
+	],
+	[
+		'image' => 'images/tiles/french-crema.avif',
+		'content' => 'French Crema'
+	],
+	[
+		'image' => 'images/tiles/prizma-satvario.avif',
+		'content' => 'Prizma Satvario'
+	],
+	[
+		'image' => 'images/tiles/blue-berccia.avif',
+		'content' => 'Blue Berccia'
+	],
+	[
+		'image' => 'images/tiles/pear-oxyn.avif',
+		'content' => 'Pear Oxyn'
+	],
+	[
+		'image' => 'images/tiles/dyna-natural.avif',
+		'content' => 'Dyna Natural'
+	],
+	[
+		'image' => 'images/tiles/sky-onyx.avif',
+		'content' => 'Sky Onyx'
+	],
+
+]
+?>
+
+
 <!DOCTYPE html>
 <html>
 
 <head>
 	<meta charset="utf-8">
-	<title>Title - HTML Template | About Me</title>
+	<title>Tiles</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 
@@ -17,8 +56,6 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-	<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
 
 <body>
@@ -33,7 +70,7 @@
 		<!-- End Main Header -->
 
 		<!-- Page Title -->
-		<section class="page-title" style="background-image:url(images/background/19.jpg)">
+		<section class="page-title" style="background-image:url(images/tiles/banner.avif)">
 			<div class="auto-container">
 				<div class="content">
 					<h2>Tiles</h2>
@@ -58,7 +95,7 @@
 							data-wow-delay="0ms"
 							data-wow-duration="1500ms">
 							<div class="image">
-								<img src="images/resource/about-4.jpg" alt="" />
+								<img src="images/tiles/profile.avif" alt="" />
 							</div>
 						</div>
 					</div>
@@ -187,180 +224,27 @@
 				</div>
 
 				<div class="row clearfix">
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/4.jpg" alt="" /></a>
-								<div class="prod-options">
-									<div class="view-prod">
-										<a
-											href="images/resource/products/4.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+					<?php foreach ($galleryItems as $item): ?>
+						<!-- Product Block Four -->
+						<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="image">
+									<a href="javascript:;"><img src="<?php echo $item['image']; ?>" alt="" /></a>
+									<div class="prod-options">
+										<div class="view-prod">
+											<a
+												href="<?php echo $item['image']; ?>"
+												class="lightbox-image"
+												data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/5.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/5.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
+								<div class="lower-content">
+									<h3 style="color:#000000;"><?php echo $item['content']; ?></h3>
 								</div>
 							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">The Seater</h3>
-							</div>
 						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/6.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/6.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Organic Clock</h3>
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/7.jpg" alt="" /></a>
-								<div class="prod-options">
-									
-									<div class="view-prod">
-										<a
-											href="images/resource/products/7.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Wilman Vase</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/8.jpg" alt="" /></a>
-								<div class="prod-options">
-									<div class="view-prod">
-										<a
-											href="images/resource/products/8.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/9.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/9.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/10.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/10.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/11.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/11.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Btn Box -->
-				<div class="btn-box text-center">
-					<a href="#" class="theme-btn btn-style-two">load more items</a>
+					<?php endforeach; ?>
 				</div>
 			</div>
 		</section>
