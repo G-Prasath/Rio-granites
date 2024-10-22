@@ -33,7 +33,7 @@
         <!-- End Main Header -->
 
         <!-- Page Title -->
-        <section class="page-title" style="background-image:url(images/background/19.jpg)">
+        <section class="page-title" style="background-image:url(images/other-stones/banner.jpg)">
             <div class="auto-container">
                 <div class="content">
                     <h2>About Me</h2>
@@ -62,23 +62,22 @@
                 style="background-image: url(images/background/pattern-4.png)"></div>
             <div class="outer-container">
                 <div class="clearfix">
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
+                    <div class="column col-lg-4 col-md-6 col-sm-12">
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/1.jpg" alt="" />
+                                    <img src="images/other-stones/black-granite-flammed-finish.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/1.jpg"
+                                                    href="images/other-stones/black-granite-flammed-finish.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="team.html">Black Granite Flammed Finish</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -90,43 +89,17 @@
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/2.jpg" alt="" />
+                                    <img src="images/other-stones/satherli-grey-flammed-finish.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/2.jpg"
+                                                    href="images/other-stones/satherli-grey-flammed-finish.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/3.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/3.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="team.html">Satherli Ggrey Flammed Finish</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -135,23 +108,22 @@
                         </div>
                     </div>
 
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
+                    <div class="column col-lg-4 col-md-6 col-sm-12">
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/4.jpg" alt="" />
+                                    <img src="images/other-stones/tandur-stone-grey-leather-finish.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/4.jpg"
+                                                    href="images/other-stones/tandur-stone-grey-leather-finish.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="javascript:;">Tandur Stone Grey Leather Finish</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -163,18 +135,17 @@
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/5.jpg" alt="" />
+                                    <img src="images/other-stones/tandur-stone-grey.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/5.jpg"
+                                                    href="images/other-stones/tandur-stone-grey.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="team.html">Tandur Stone Grey</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -183,23 +154,22 @@
                         </div>
                     </div>
 
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
+                    <div class="column col-lg-4 col-md-6 col-sm-12">
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/6.jpg" alt="" />
+                                    <img src="images/other-stones/tandur-stone-leather-finish-grey.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/6.jpg"
+                                                    href="images/other-stones/tandur-stone-leather-finish-grey.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="team.html">Tandur Stone Feather Finish Grey</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -211,18 +181,17 @@
                         <div class="project-block">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="images/gallery/7.jpg" alt="" />
+                                    <img src="images/other-stones/tandur-stone-yellow-leather-finish.jpg" alt="" />
                                     <!-- Overlay Box -->
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="overlay-content">
                                                 <a
                                                     class="plus"
-                                                    href="images/gallery/7.jpg"
+                                                    href="images/other-stones/tandur-stone-yellow-leather-finish.jpg"
                                                     data-fancybox="gallery-1"
                                                     data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
+                                                <h3><a href="team.html">Tandur Stone Yellow Leather Finish</a></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -236,392 +205,13 @@
         <!-- End Gallery -->
         <!-- END OTHERS 1 -->
 
+		<!-- CTA -->
+		<?php include_once('./_templates/Cta.php') ?>
+		<!-- End CTA -->
 
-
-        <!-- OTHERS 2 -->
-        <div class="sec-title centered" style="margin-top: 100px">
-            <div class="inner-title">
-                <div class="title">What's happening</div>
-                <h2>News & Updates .</h2>
-            </div>
-        </div>
-
-        <!-- Gallery -->
-        <section class="projects-section" style="margin-top: -130px;">
-            <div
-                class="pattern-layer"
-                style="background-image: url(images/background/pattern-4.png)"></div>
-            <div class="outer-container">
-                <div class="clearfix">
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/1.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/1.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/2.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/2.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/3.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/3.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/4.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/4.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/5.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/5.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/6.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/6.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/7.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/7.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Gallery -->
-        <!-- END OTHERS 2 -->
-
-
-
-        <!-- OTHERS 3 -->
-        <div class="sec-title centered" style="margin-top: 100px">
-            <div class="inner-title">
-                <div class="title">What's happening</div>
-                <h2>News & Updates .</h2>
-            </div>
-        </div>
-
-        <!-- Gallery -->
-        <section class="projects-section" style="margin-top: -130px;">
-            <div
-                class="pattern-layer"
-                style="background-image: url(images/background/pattern-4.png)"></div>
-            <div class="outer-container">
-                <div class="clearfix">
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/1.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/1.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/2.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/2.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/3.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/3.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/4.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/4.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/5.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/5.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column col-lg-3 col-md-6 col-sm-12">
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/6.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/6.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="images/gallery/7.jpg" alt="" />
-                                    <!-- Overlay Box -->
-                                    <div class="overlay-box">
-                                        <div class="overlay-inner">
-                                            <div class="overlay-content">
-                                                <a
-                                                    class="plus"
-                                                    href="images/gallery/7.jpg"
-                                                    data-fancybox="gallery-1"
-                                                    data-caption=""><span class="flaticon-full-screen"></span></a>
-                                                <h3><a href="team.html">Portion Interior</a></h3>
-                                                <div class="category">Home Design</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Gallery -->
-        <!-- END OTHERS 3 -->
-
-
-
-
-
+		<!-- FOOTER SCROLL -->
+		<?php include_once('./_templates/FooterScroll.php') ?>
+		<!-- End FOOTER SCROLL -->
 
         <!-- Start Main Footer -->
         <?php include_once('./_templates/Footer.php') ?>
