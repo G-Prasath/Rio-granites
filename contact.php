@@ -30,7 +30,7 @@
 		<!-- End Main Header -->
 
 		<!-- Page Title -->
-		<section class="page-title" style="background-image:url(images/background/20.jpg)">
+		<section class="page-title" style="background-image:url(images/contact-us-banner.jpg)">
 			<div class="auto-container">
 				<div class="content">
 					<h2>Contact us</h2>
