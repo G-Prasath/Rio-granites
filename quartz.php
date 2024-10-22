@@ -1,9 +1,47 @@
+<?php
+$galleryItems = [
+	[
+		'image' => 'images/quartz/ancient-beige.avif',
+		'content' => 'Ancient Beige'
+	],
+	[
+		'image' => 'images/quartz/black-forest.avif',
+		'content' => 'Black Forest'
+	],
+	[
+		'image' => 'images/quartz/my-stique-alpine.avif',
+		'content' => 'My Stique Alpine'
+	],
+	[
+		'image' => 'images/quartz/black-portoro.avif',
+		'content' => 'Black Portoro'
+	],
+	[
+		'image' => 'images/quartz/sahara-storm.avif',
+		'content' => 'Sahara Storm'
+	],
+	[
+		'image' => 'images/quartz/golden-eye.avif',
+		'content' => 'Golden Eye'
+	],
+	[
+		'image' => 'images/quartz/titon-brown.avif',
+		'content' => 'Titon Brown'
+	],
+	[
+		'image' => 'images/quartz/thander-black.avif',
+		'content' => 'Thander Black'
+	],
+
+]
+?>
+
 <!DOCTYPE html>
 <html>
 
 <head>
 	<meta charset="utf-8">
-	<title>Title - HTML Template | About Me</title>
+	<title>Quartz</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 
@@ -33,7 +71,7 @@
 		<!-- End Main Header -->
 
 		<!-- Page Title -->
-		<section class="page-title" style="background-image:url(images/background/19.jpg)">
+		<section class="page-title" style="background-image:url(images/quartz/banner.avif)">
 			<div class="auto-container">
 				<div class="content">
 					<h2>Marbles</h2>
@@ -58,7 +96,7 @@
 							data-wow-delay="0ms"
 							data-wow-duration="1500ms">
 							<div class="image">
-								<img src="images/resource/about-4.jpg" alt="" />
+								<img src="images/quartz/profile.avif" alt="" />
 							</div>
 						</div>
 					</div>
@@ -187,180 +225,27 @@
 				</div>
 
 				<div class="row clearfix">
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/4.jpg" alt="" /></a>
-								<div class="prod-options">
-									<div class="view-prod">
-										<a
-											href="images/resource/products/4.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+					<?php foreach ($galleryItems as $item): ?>
+						<!-- Product Block Four -->
+						<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="image">
+									<a href="javascript:;"><img src="<?php echo $item['image']; ?>" alt="" /></a>
+									<div class="prod-options">
+										<div class="view-prod">
+											<a
+												href="<?php echo $item['image']; ?>"
+												class="lightbox-image"
+												data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/5.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/5.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
+								<div class="lower-content">
+									<h3 style="color:#000000;"><?php echo $item['content']; ?></h3>
 								</div>
 							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">The Seater</h3>
-							</div>
 						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/6.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/6.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Organic Clock</h3>
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/7.jpg" alt="" /></a>
-								<div class="prod-options">
-									
-									<div class="view-prod">
-										<a
-											href="images/resource/products/7.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Wilman Vase</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/8.jpg" alt="" /></a>
-								<div class="prod-options">
-									<div class="view-prod">
-										<a
-											href="images/resource/products/8.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/9.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/9.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/10.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/10.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-
-							</div>
-						</div>
-					</div>
-
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="#"><img src="images/resource/products/11.jpg" alt="" /></a>
-								<div class="prod-options">
-
-									<div class="view-prod">
-										<a
-											href="images/resource/products/11.jpg"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;">Pink Wall Lamp</h3>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Btn Box -->
-				<div class="btn-box text-center">
-					<a href="#" class="theme-btn btn-style-two">load more items</a>
+					<?php endforeach; ?>
 				</div>
 			</div>
 		</section>
@@ -479,185 +364,11 @@
 		<!-- End Services Section Six -->
 
 		<!-- CTA -->
-		<section
-			class="call-to-action-section style-two"
-			style="background-image: url(images/background/24.jpg)">
-			<div class="auto-container">
-				<h2>
-					Get In Touch With
-				</h2>
-				<ul>
-					<li>Call us: <a href="tel:07010147530">70101 47530</a></li>
-					<li>
-						Email us: <a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a>
-					</li>
-				</ul>
-				<a href="contact.html" class="theme-btn btn-style-one">get a quote</a>
-			</div>
-		</section>
+		<?php include_once('./_templates/Cta.php') ?>
 		<!-- End CTA -->
 
 		<!-- FOOTER SCROLL -->
-		<section class="project-section-two style-two">
-			<div class="outer-container">
-				<div class="four-item-carousel owl-carousel owl-theme">
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</section>
+		<?php include_once('./_templates/FooterScroll.php') ?>
 		<!-- End FOOTER SCROLL -->
 
 		<!-- Start Main Footer -->

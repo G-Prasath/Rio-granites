@@ -41,7 +41,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Title - HTML Template | About Me</title>
+	<title>Granites</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 
