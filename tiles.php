@@ -74,10 +74,10 @@ $galleryItems = [
 			<div class="auto-container">
 				<div class="content">
 					<h2>Tiles</h2>
-					<div class="text">Architect & Interior Designer</div>
+					<div class="text">The Allure of Tile Flooring</div>
 					<ul class="page-breadcrumb">
 						<li><a href="#">Home</a></li>
-						<li>About Me</li>
+						<li>Tiles</li>
 					</ul>
 				</div>
 			</div>
@@ -107,24 +107,18 @@ $galleryItems = [
 								<div class="inner-title">
 									<div class="title">Tiles service</div>
 									<h2>
-										We are passionate and always <br />
-										built stunning architectures .
+										Elevate Your Design with Tiles
 									</h2>
 								</div>
 							</div>
 							<div class="text">
-								Beyond more stoic this along goodness hey this this wow
-								manatee mongoose one as since a far flustered impressive
-								manifest far crud opened inside owing punitively around
-								forewent and after wasteful telling sprang coldly and spoke
-								less clients. Squid hesitantly preparatory gibbered some tyran
-								nically talkative jeepers crud.
+								Tiles are a favored choice for residential and commercial spaces, thanks to their durability and design versatility. Available in materials like ceramic, porcelain, and natural stone, tiles enhance the aesthetic of any area. They are perfect for flooring, backsplashes, and wall coverings, offering easy maintenance and water resistance. Whether you seek a modern or classic look, tiles provide endless design possibilities to elevate your space.
 							</div>
 							<ul class="list-style-one">
-								<li>We create spaces that allows to feel satisfied</li>
-								<li>Provide the most optimal interior design solutions</li>
-								<li>Focuses on fresh design ideas for clients</li>
-								<li>Higher level of supervision to perform well</li>
+								<li>Durability and Longevity</li>
+								<li>Wide Variety of Designs</li>
+								<li>Easy Maintenance</li>
+								<li>Versatile Applications</li>
 							</ul>
 						</div>
 					</div>
@@ -150,13 +144,11 @@ $galleryItems = [
 								<span class="icon flaticon-sketch"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Eye-Catching Design</a>
+								<a href="service-architecture.html">Benefits of Tiles</a>
 							</h3>
 							<div class="service-number">01</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+								Tiles offer exceptional durability, easy maintenance, and water resistance, making them perfect for kitchens and bathrooms. Their design versatility enhances any space beautifully.
 							</div>
 						</div>
 					</div>
@@ -171,13 +163,11 @@ $galleryItems = [
 								<span class="icon flaticon-blueprint"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Crafted With Love</a>
+								<a href="service-architecture.html">Design Inspiration</a>
 							</h3>
 							<div class="service-number">02</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+							Explore endless design inspiration with our tiles, featuring a variety of colors and patterns that can transform any space into a stylish and inviting environment.
 							</div>
 						</div>
 					</div>
@@ -192,13 +182,11 @@ $galleryItems = [
 								<span class="icon flaticon-metering"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Perfectioned In Style</a>
+								<a href="service-architecture.html">Customization Options</a>
 							</h3>
 							<div class="service-number">03</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+							Tiles provide extensive customization options, allowing you to choose colors, patterns, and sizes tailored to your style, ensuring a perfect fit for your unique design vision.
 							</div>
 						</div>
 					</div>
@@ -213,12 +201,10 @@ $galleryItems = [
 				<!-- Sec Title -->
 				<div class="sec-title style-two centered">
 					<div class="inner-title">
-						<div class="title">bespoke Quality</div>
-						<h2>Latest Arrivals at Title .</h2>
+						<div class="title">Gallery</div>
+						<h2>Showcase TIles</h2>
 						<div class="text">
-							Convenire gubergren vix. Habeo facete pri putent malu intellegam
-							vixt prompta <br />
-							facil teresed denique praes ent pro vemin torqu malis noe kxeas.
+						Explore our stunning tile collection, showcasing exceptional craftsmanship and diverse designs that enhance your spaces with lasting style and sophistication.
 						</div>
 					</div>
 				</div>
@@ -260,24 +246,18 @@ $galleryItems = [
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<div class="inner-title">
-									<div class="title">bespoke Quality of Title</div>
-									<h2>World-Class Services .</h2>
+									<div class="title">Use Case</div>
+									<h2>The Usability of Tiles</h2>
 								</div>
 							</div>
 							<div class="text">
 								<p>
-									Beyond more stoic this along goodness this this wow ipsum
-									sed mante far impressive manifest farcrud opened inside.
+								Tiles excel in versatility, seamlessly fitting into a variety of settings. Their stunning aesthetics enhance kitchens, bathrooms, and living areas, making them a popular choice for designers.
 								</p>
 								<p>
-									Fustered impressive manifest crud opened insid wing
-									punitively around went and after wasteful telling spang
-									coldly and spoke les clients hesit antly preparatory
-									gibbered some tyran nically talkative jepers to decore que
-									philosophia volputate eumuas.
+								Additionally, tiles are resistant to stains and moisture, ensuring they maintain their beauty over time while combining style and functionality. Whether used for flooring, backsplashes, or wall coverings, tiles bring elegance and sophistication to any design with their wide range of colors and patterns.
 								</p>
 							</div>
-							<a href="#" class="theme-btn btn-style-two">learn more</a>
 						</div>
 					</div>
 
@@ -295,15 +275,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										The planning to peforme well
+										Are tiles waterproof?
 									</div>
 									<div class="acc-content current">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Yes, many tiles are water-resistant, making them ideal for wet areas like bathrooms and kitchens.
 											</div>
 										</div>
 									</div>
@@ -318,15 +295,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										We have client’s vision in mind
+										How do I clean tiles?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Tiles can be easily cleaned with mild detergent and water; regular sweeping and mopping keep them looking great.
 											</div>
 										</div>
 									</div>
@@ -341,15 +315,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										Advantage of quick project delivery
+										Can tiles be used outdoors?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Absolutely! Certain tiles are designed for outdoor use, offering durability against weather conditions.
 											</div>
 										</div>
 									</div>
@@ -363,185 +334,11 @@ $galleryItems = [
 		<!-- End Services Section Six -->
 
 		<!-- CTA -->
-		<section
-			class="call-to-action-section style-two"
-			style="background-image: url(images/background/24.jpg)">
-			<div class="auto-container">
-				<h2>
-					Get In Touch With
-				</h2>
-				<ul>
-					<li>Call us: <a href="tel:07010147530">70101 47530</a></li>
-					<li>
-						Email us: <a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a>
-					</li>
-				</ul>
-				<a href="contact.html" class="theme-btn btn-style-one">get a quote</a>
-			</div>
-		</section>
+		<?php include_once('./_templates/Cta.php') ?>
 		<!-- End CTA -->
 
 		<!-- FOOTER SCROLL -->
-		<section class="project-section-two style-two">
-			<div class="outer-container">
-				<div class="four-item-carousel owl-carousel owl-theme">
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</section>
+		<?php include_once('./_templates/FooterScroll.php') ?>
 		<!-- End FOOTER SCROLL -->
 
 		<!-- Start Main Footer -->

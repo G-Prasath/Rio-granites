@@ -1,39 +1,39 @@
 <?php
-	$galleryItems = [
-		[
-			'image' => 'images/granites/french-white.avif',
-			'content' => 'French White'
-		],
-		[
-			'image' => 'images/granites/himalayan-blue.avif',
-			'content' => 'Himalayan Blue'
-		],
-		[
-			'image' => 'images/granites/shiva-orange.avif',
-			'content' => 'Shiva Orange'
-		],
-		[
-			'image' => 'images/granites/black-travertine.avif',
-			'content' => 'Black Travertine'
-		],
-		[
-			'image' => 'images/granites/Black-zubrana.avif',
-			'content' => 'Black Zubrana'
-		],
-		[
-			'image' => 'images/granites/pearl-black.avif',
-			'content' => 'Pearl Black'
-		],
-		[
-			'image' => 'images/granites/sira-grey-leather.avif',
-			'content' => 'Sira Grey Leather'
-		],
-		[
-			'image' => 'images/granites/bahama-ivory.avif',
-			'content' => 'Bahama Ivory'
-		],
-		
-	]
+$galleryItems = [
+	[
+		'image' => 'images/granites/french-white.avif',
+		'content' => 'French White'
+	],
+	[
+		'image' => 'images/granites/himalayan-blue.avif',
+		'content' => 'Himalayan Blue'
+	],
+	[
+		'image' => 'images/granites/shiva-orange.avif',
+		'content' => 'Shiva Orange'
+	],
+	[
+		'image' => 'images/granites/black-travertine.avif',
+		'content' => 'Black Travertine'
+	],
+	[
+		'image' => 'images/granites/Black-zubrana.avif',
+		'content' => 'Black Zubrana'
+	],
+	[
+		'image' => 'images/granites/pearl-black.avif',
+		'content' => 'Pearl Black'
+	],
+	[
+		'image' => 'images/granites/sira-grey-leather.avif',
+		'content' => 'Sira Grey Leather'
+	],
+	[
+		'image' => 'images/granites/bahama-ivory.avif',
+		'content' => 'Bahama Ivory'
+	],
+
+]
 ?>
 
 <!DOCTYPE html>
@@ -73,10 +73,10 @@
 			<div class="auto-container">
 				<div class="content">
 					<h2>Granites</h2>
-					<div class="text">Architect & Interior Designer</div>
+					<div class="text">Explore Our Premium Granite Products</div>
 					<ul class="page-breadcrumb">
 						<li><a href="#">Home</a></li>
-						<li>About Me</li>
+						<li>Granites</li>
 					</ul>
 				</div>
 			</div>
@@ -106,24 +106,18 @@
 								<div class="inner-title">
 									<div class="title">Granites service</div>
 									<h2>
-										We are passionate and always <br />
-										built stunning architectures .
+										A Legacy of Luxury and Durability.
 									</h2>
 								</div>
 							</div>
 							<div class="text">
-								Beyond more stoic this along goodness hey this this wow
-								manatee mongoose one as since a far flustered impressive
-								manifest far crud opened inside owing punitively around
-								forewent and after wasteful telling sprang coldly and spoke
-								less clients. Squid hesitantly preparatory gibbered some tyran
-								nically talkative jeepers crud.
+								Granite is a stunning natural stone renowned for its strength and aesthetic appeal. Its unique color variations and patterns make it a popular choice for a wide range of applications, combining beauty with practicality for both homes and businesses.
 							</div>
 							<ul class="list-style-one">
-								<li>We create spaces that allows to feel satisfied</li>
-								<li>Provide the most optimal interior design solutions</li>
-								<li>Focuses on fresh design ideas for clients</li>
-								<li>Higher level of supervision to perform well</li>
+								<li>Wide Range of Colors</li>
+								<li>Heat Resistance</li>
+								<li>Timeless Elegance</li>
+								<li>Increased Property Value</li>
 							</ul>
 						</div>
 					</div>
@@ -149,13 +143,11 @@
 								<span class="icon flaticon-sketch"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Eye-Catching Design</a>
+								<a href="service-architecture.html">Benefits of Granite</a>
 							</h3>
 							<div class="service-number">01</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+								Granite offers unmatched durability, resisting scratches and heat. Its unique beauty adds elegance to any space, while low maintenance keeps it looking pristine effortlessly.
 							</div>
 						</div>
 					</div>
@@ -170,13 +162,11 @@
 								<span class="icon flaticon-blueprint"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Crafted With Love</a>
+								<a href="service-architecture.html">Design Inspiration</a>
 							</h3>
 							<div class="service-number">02</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+								Discover the versatility of granite in design! From modern kitchens to classic bathrooms, its unique colors and patterns enhance any space, creating stunning focal points.
 							</div>
 						</div>
 					</div>
@@ -191,13 +181,11 @@
 								<span class="icon flaticon-metering"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Perfectioned In Style</a>
+								<a href="service-architecture.html">Customization Options</a>
 							</h3>
 							<div class="service-number">03</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+								Customize your granite to suit your style! Choose from various colors, finishes, and sizes, along with personalized edge profiles, ensuring a perfect fit for your project.
 							</div>
 						</div>
 					</div>
@@ -212,12 +200,10 @@
 				<!-- Sec Title -->
 				<div class="sec-title style-two centered">
 					<div class="inner-title">
-						<div class="title">bespoke Quality</div>
-						<h2>Latest Arrivals at Title .</h2>
+						<div class="title">Gallery</div>
+						<h2>Granite Showcase</h2>
 						<div class="text">
-							Convenire gubergren vix. Habeo facete pri putent malu intellegam
-							vixt prompta <br />
-							facil teresed denique praes ent pro vemin torqu malis noe kxeas.
+						Explore our exquisite collection. Each piece reflects unique beauty and quality,<br/> crafted to enhance your spaces with elegance and style.
 						</div>
 					</div>
 				</div>
@@ -225,27 +211,27 @@
 				<div class="row clearfix">
 
 					<?php foreach ($galleryItems as $item): ?>
-					<!-- Product Block Four -->
-					<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="javascript:;"><img src="<?php echo $item['image']; ?>" alt="" /></a>
-								<div class="prod-options">
-									<div class="view-prod">
-										<a
-											href="<?php echo $item['image']; ?>"
-											class="lightbox-image"
-											data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+						<!-- Product Block Four -->
+						<div class="product-block-four col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="image">
+									<a href="javascript:;"><img src="<?php echo $item['image']; ?>" alt="" /></a>
+									<div class="prod-options">
+										<div class="view-prod">
+											<a
+												href="<?php echo $item['image']; ?>"
+												class="lightbox-image"
+												data-fancybox="shop-gallery"><span class="fa fa-expand"></span></a>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="lower-content">
-								<h3 style="color:#000000;"><?php echo $item['content']; ?></h3>
+								<div class="lower-content">
+									<h3 style="color:#000000;"><?php echo $item['content']; ?></h3>
+								</div>
 							</div>
 						</div>
-					</div>
 					<?php endforeach; ?>
-					
+
 				</div>
 
 			</div>
@@ -262,24 +248,18 @@
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<div class="inner-title">
-									<div class="title">bespoke Quality of Title</div>
-									<h2>World-Class Services .</h2>
+									<div class="title">Use Case</div>
+									<h2>The Usability of Granite.</h2>
 								</div>
 							</div>
 							<div class="text">
-								<p>
-									Beyond more stoic this along goodness this this wow ipsum
-									sed mante far impressive manifest farcrud opened inside.
+								<p style="text-align: justify;">
+								Granite shines in versatility, fitting seamlessly in various applications. Its stunning aesthetics enhance kitchens, bathrooms, and outdoor spaces, making it a popular choice for homeowners.
 								</p>
-								<p>
-									Fustered impressive manifest crud opened insid wing
-									punitively around went and after wasteful telling spang
-									coldly and spoke les clients hesit antly preparatory
-									gibbered some tyran nically talkative jepers to decore que
-									philosophia volputate eumuas.
+								<p style="text-align: justify;">
+								Additionally, granite's resilience against heat and scratches ensures longevity, offering both beauty and practicality. Whether for countertops or flooring, granite elevates any design with its robust nature and unique patterns.
 								</p>
 							</div>
-							<a href="#" class="theme-btn btn-style-two">learn more</a>
 						</div>
 					</div>
 
@@ -297,15 +277,12 @@
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										The planning to peforme well
+										What granite finishes are available?
 									</div>
 									<div class="acc-content current">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Granite is available in polished, honed, and leathered finishes. Polished is glossy, honed is matte, and leathered has a textured look, suitable for various styles.
 											</div>
 										</div>
 									</div>
@@ -320,15 +297,12 @@
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										We have client’s vision in mind
+										How do I maintain granite surfaces?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Clean with mild soap and water, avoiding harsh chemicals. Reapply sealer every 1-3 years and use coasters or cutting boards to prevent scratches and stains.
 											</div>
 										</div>
 									</div>
@@ -343,15 +317,12 @@
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										Advantage of quick project delivery
+										Is granite suitable for outdoor use?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Yes, granite is perfect for outdoor applications. It's durable and weather-resistant, ideal for patios and outdoor kitchens. Ensure proper sealing for moisture protection.
 											</div>
 										</div>
 									</div>

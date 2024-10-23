@@ -101,8 +101,8 @@
                 data-textalign="['top','top','top','top']"
                 data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                 <h2>
-                  Perfect blend with <br />
-                  Extensive selection .
+                  Crafting Your Vision <br />
+                  with Granite & Tile .
                 </h2>
               </div>
               <div
@@ -123,29 +123,7 @@
                 data-textalign="['top','top','top','top']"
                 data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:[150%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                 <div class="text">
-                  Bespoke Luxury & Architecture Designing
-                </div>
-              </div>
-              <div
-                class="tp-caption tp-resizeme"
-                data-paddingbottom="[0,0,0,0]"
-                data-paddingleft="[0,0,0,0]"
-                data-paddingright="[0,0,0,0]"
-                data-paddingtop="[0,0,0,0]"
-                data-responsive_offset="on"
-                data-type="text"
-                data-height="none"
-                data-whitespace="normal"
-                data-width="['650','650','650','450']"
-                data-hoffset="['15','15','15','15']"
-                data-voffset="['125','110','110','90']"
-                data-x="['left','left','left','left']"
-                data-y="['middle','middle','middle','middle']"
-                data-textalign="['top','top','top','top']"
-                data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'>
-                <!-- Link Box -->
-                <div class="link-box">
-                  <a href="services.html" class="theme-btn btn-style-one">Learn more</a>
+                  Endless Choices, Lasting Durability
                 </div>
               </div>
             </li>
@@ -190,8 +168,8 @@
                 data-textalign="['top','top','top','top']"
                 data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                 <h2>
-                  Perfect blend with <br />
-                  Extensive selection .
+                  Bring Elegance Home <br />
+                  with Granite & Tile .
                 </h2>
               </div>
 
@@ -213,30 +191,7 @@
                 data-textalign="['top','top','top','top']"
                 data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:[150%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                 <div class="text">
-                  Bespoke Luxury & Architecture Designing
-                </div>
-              </div>
-
-              <div
-                class="tp-caption tp-resizeme"
-                data-paddingbottom="[0,0,0,0]"
-                data-paddingleft="[0,0,0,0]"
-                data-paddingright="[0,0,0,0]"
-                data-paddingtop="[0,0,0,0]"
-                data-responsive_offset="on"
-                data-type="text"
-                data-height="none"
-                data-whitespace="normal"
-                data-width="['650','650','650','450']"
-                data-hoffset="['15','15','15','15']"
-                data-voffset="['125','110','110','90']"
-                data-x="['left','left','left','left']"
-                data-y="['middle','middle','middle','middle']"
-                data-textalign="['top','top','top','top']"
-                data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'>
-                <!-- Link Box -->
-                <div class="link-box">
-                  <a href="services.html" class="theme-btn btn-style-one">Learn more</a>
+                  Stylish Granite & Tile for Any Room
                 </div>
               </div>
             </li>
@@ -261,28 +216,24 @@
                 <div class="inner-title">
                   <div class="title">about </div>
                   <h2>
-                    We are passionate and always produce better results for
-                    interiors.
+                    We are passionate and always produce better results for Graintes.
                   </h2>
                 </div>
               </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12">
               <div class="bold-text">
-                Sit eit malis civibus kase iuvaret blandit no nec, ipsum
-                volumus indis aissentias referrentur vix euno utamur vivendo
-                interpretaris quo
+                At Rio Granite, our passion for natural stone drives us to create remarkable interiors that stand the test of time. Specializing in high-quality granite, marble, and tiles, we blend artistry and functionality to enhance your spaces.
               </div>
               <div class="text">
-                Beyond more stoic this along goodness hey this this wow
-                manatee mongoose one as since a far flustered impressive
-                manifest far crud opened inside owing punitively around
-                forewent and after wasteful telling sprang coldly and spoke
-                less clients. Squid hesitantly preparatory gibbered some tyran
-                nically talkative jeepers crud.
+                The company engage to produce and deliver best quality granites
+                and other natural stones like Marble, Tandur stone ,Kota ,etc. The
+                company opened its stockyard in Maduravoyal, Alapakkam Main
+                Road and since then the company has been attaining glory by
+                producing satisfactory customers.
               </div>
-              <div class="signature">
-                <img src="images/icons/signature.png" alt="" />
+              <div class="text">
+                Our team of skilled professionals is dedicated to providing personalized service, ensuring that each project reflects your unique vision and style. We pride ourselves on delivering exceptional results that not only beautify your home or business but also add lasting value. Trust us to transform your interiors with our exquisite selection of materials and expert craftsmanship
               </div>
             </div>
           </div>
@@ -311,14 +262,11 @@
               <div class="sec-title">
                 <div class="inner-title">
                   <div class="title">Branded Services</div>
-                  <h2>We Offers Ideas With Impressive Details .</h2>
+                  <h2>We Offer Inspiring Ideas with Quartz & Granite.</h2>
                 </div>
               </div>
               <div class="text">
-                Along goodness hey this sed ipsum dui manatee for the one
-                asfers since far flustered impressive your longtails opened
-                inside owing ipsum epunitively. Nehil moderatius vimpot dish
-                euitas iuvaret reformid.
+                With quality stone, our granite and quartz tiles enhance spaces beautifully, offering elegance and durability for every design, making your interiors truly remarkable.
               </div>
             </div>
           </div>
@@ -418,20 +366,12 @@
                   class="inner-column wow fadeInLeft"
                   data-wow-delay="0ms"
                   data-wow-duration="1500ms">
-                  <div class="text">
+                  <div class="text" style="text-align: justify;">
                     <p>
-                      Convenire gubergren ex vix. Habeo facete pri ei. Putent
-                      maluisset intellegam vix te, vim prompta facilisi
-                      interesset te. An denique praesent pro, in
-                      <span>torquatos adipiscing pro,</span> pro no odio
-                      modus. Mea malis summo ut. Ex ipsum dolore assueverit
-                      nec, facer imperdiet et duo, cu postea laoreet vulputate
-                      has.
+                      Our granites, marbles, quartz, and tiles are built for durability and style. Resistant to scratches and stains, they maintain their beauty over time. With a diverse selection of colors and finishes, you can find the perfect material for any project, while most require minimal maintenance.
                     </p>
                     <p>
-                      Beyond more stoic this along goodness hey this this wow
-                      manatee mongoose one as since a far flustered impressive
-                      manifest far crud opened inside owing punitively around
+                      Additionally, we provide eco-friendly options that are sustainably sourced. Our quartz surfaces are particularly resilient to heat and stains, making them ideal for busy kitchens and high-traffic areas.
                     </p>
                   </div>
                 </div>
@@ -472,21 +412,12 @@
                   class="inner-column wow fadeInRight"
                   data-wow-delay="0ms"
                   data-wow-duration="1500ms">
-                  <div class="text">
+                  <div class="text" style="text-align: justify;">
                     <p>
-                      Convenire gubergren ex vix. Habeo facete pri ei. Putent
-                      maluisset intellegam vix te, vim prompta facilisi
-                      interesset te. An denique praesent pro, in torquatos
-                      <strong>adipiscing pro pro no odio modus.</strong> Mea
-                      malis summo ut. Ex ipsum dolore assueverit nec, facer
-                      imperdiet et duo, cu postea laoreet vulputate has.
+                      Choosing us means receiving expert advice tailored to your project needs. Our dedicated team helps you select the right materials while ensuring quality through rigorous checks, all at competitive prices for excellent value.
                     </p>
                     <p>
-                      Beyond
-                      <span>more stoic this along goodness hey</span> this
-                      this wow manatee mongoose one as since a far flustered
-                      impressive manifest far crud opened inside owing
-                      punitively around
+                      We also offer customization options to meet your specific preferences. With a commitment to timely delivery, you can trust us to provide your products promptly, keeping your project on schedule.
                     </p>
                   </div>
                 </div>
@@ -681,7 +612,7 @@
         <div class="sec-title centered">
           <div class="inner-title">
             <div class="title">Quality of work</div>
-            <h2>Stats And Numbers.</h2>
+            <h2>Our Contribute</h2>
           </div>
         </div>
 
@@ -708,7 +639,7 @@
                 <div class="count-box">
                   <span class="count-text" data-speed="2500" data-stop="16">0</span>
                 </div>
-                <div class="text">crazy thinkers</div>
+                <div class="text">New Ideas</div>
               </div>
               <div class="image">
                 <img src="images/home/funfact-2.avif" alt="" />
@@ -736,9 +667,9 @@
             <div class="inner-box row">
               <div class="content-box">
                 <div class="count-box">
-                  <span class="count-text" data-speed="3500" data-stop="7">0</span>K
+                  <span class="count-text" data-speed="3500" data-stop="100">0</span>
                 </div>
-                <div class="text">hours of work</div>
+                <div class="text">Workers</div>
               </div>
               <div class="image"></div>
             </div>
@@ -754,12 +685,10 @@
         <div class="sec-title centered">
           <div class="inner-title">
             <div class="title">contact </div>
-            <h2>Let’s talk about your project .</h2>
+            <h2>Let's talk about your project .</h2>
           </div>
           <div class="text">
-            Beyond more stoic this along goodness hey this this wow manatee
-            mongoose one far flustered impressive manifest far crud opened
-            inside owing punitively around for after wasteful telling.
+            Reach out to us! Whether you're brimming with questions or just looking to say hi, we're all ears, ready to dive into the delightful depths of conversation and collaboration!
           </div>
         </div>
 

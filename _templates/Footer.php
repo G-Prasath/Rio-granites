@@ -11,21 +11,20 @@
                             <div class="footer-widget about-widget">
                                 <ul class="social-links">
                                     <li>
-                                        <a href="#"><span class="fa fa-youtube"></span></a>
+                                        <a href="https://www.youtube.com/@riogranites"><span class="fa fa-youtube"></span></a>
+                                    </li>
+                                    <!-- <li>
+                                            <a href="#"><span class="fa fa-pinterest-p"></span></a>
+                                        </li> -->
+                                    <li>
+                                        <a href="https://www.facebook.com/riograniteofficial"><span class="fa fa-facebook-f"></span></a>
                                     </li>
                                     <li>
-                                        <a href="#"><span class="fa fa-pinterest-p"></span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><span class="fa fa-instagram"></span></a>
+                                        <a href="https://www.instagram.com/rio_granite/"><span class="fa fa-instagram"></span></a>
                                     </li>
                                 </ul>
-                                <div class="text">
-                                    Sit eit malis civibus kase iuvaret bandit no kec, ipsum
-                                    volumus indis aissentias referrentur vix euno utamur.
+                                <div class="text" style="text-align: justify;">
+                                    Rio Granites offers premium granite, marble, quartz, and tiles, ensuring durable and beautiful materials for all your projects.
                                 </div>
                                 <div class="copyright">
                                     - Rio Graintes <br />
@@ -57,7 +56,7 @@
                             <div class="footer-widget links-widget">
                                 <h2>Usefull Links</h2>
                                 <ul class="footer-list">
-                                    <li><a href="/">Home</a></li>
+                                    <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About</a></li>
                                     <li><a href="contact.php">Contact us</a></li>
                                 </ul>
@@ -73,7 +72,7 @@
                                     <li><span>Tamil Nadu-600095.</span></li>
                                     <li>
                                         Phone:
-                                        <span><a href="tel:+917010147530">70101 47530</a></span>
+                                        <span><a href="tel:+917010147530">+91 70101 47530</a></span>
                                     </li>
                                     <li>
                                         Email:

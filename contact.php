@@ -34,10 +34,10 @@
 			<div class="auto-container">
 				<div class="content">
 					<h2>Contact us</h2>
-					<div class="text">Interior & Architecture Designing</div>
+					<div class="text">Reach Out for More Information</div>
 					<ul class="page-breadcrumb">
-						<li><a href="#">Home</a></li>
-						<li>get in touch</li>
+						<li><a href="index.php">Home</a></li>
+						<li>Contact us</li>
 					</ul>
 				</div>
 			</div>
@@ -53,9 +53,9 @@
 					<div class="inner-title">
 						<div class="big-title">Title</div>
 						<div class="title">contact Title</div>
-						<h2>Let’s talk about your project .</h2>
+						<h2>Let's talk about your project .</h2>
 					</div>
-					<div class="text">Beyond more stoic this along goodness hey this this wow manatee mongoose one far flustered impressive manifest far crud opened inside owing punitively around for after wasteful telling.</div>
+					<div class="text">Reach out to us with any questions or feedback; we’re here to assist you and ensure your experience is nothing short of exceptional</div>
 				</div>
 
 				<!-- Contact Form -->
@@ -104,14 +104,16 @@
 						<!-- Sec Title -->
 						<div class="sec-title style-three">
 							<div class="inner-title">
-								<h2>Newyork Office</h2>
-								<div class="text">Convenire gubergren vix. Habeo facete pri putent malu intellegam vixt vim prompta facia.</div>
+								<h2>Yard Address</h2>
 							</div>
 						</div>
 						<ul class="list-style-two">
-							<li><span class="icon icon-pin"></span> <i>Address: </i>63 Nelson Base, Florida 26025 USA</li>
-							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:2345018607">(234) 501 8607</a> - <a href="tel:2345018607">(234) 620 7129</a></li>
-							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:inquiry@Title.net">inquiry@Title.net</a></li>
+							<li>
+								<span class="icon icon-pin"></span> 
+								<i>Address: </i>271, 1A1, Alapakkam Main Rd, Janaki Nagar, Maduravoyal, Chennai
+							</li>
+							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:+917010147530">+91 70101 47530</a></li>
+							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li>
 						</ul>
 					</div>
 
@@ -119,14 +121,13 @@
 						<!-- Sec Title -->
 						<div class="sec-title style-three">
 							<div class="inner-title">
-								<h2>London Office</h2>
-								<div class="text">Convenire gubergren vix. Habeo facete pri putent malu intellegam vixt vim prompta facia.</div>
+								<h2>Factory Address</h2>
 							</div>
 						</div>
 						<ul class="list-style-two">
-							<li><span class="icon icon-pin"></span> <i>Address: </i>63 Nelson Base, Florida 26025 USA</li>
-							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:2345018607">(234) 501 8607</a> - <a href="tel:2345018607">(234) 620 7129</a></li>
-							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:inquiry@Title.net">inquiry@Title.net</a></li>
+							<li><span class="icon icon-pin"></span> <i>Address: </i>20/1,amirthi road,sirukalambur,thutipet post,<br/>vellore-58</li>
+							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:+917395912679">+91 73959 12679</a></li>
+							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li>
 						</ul>
 					</div>
 
@@ -134,11 +135,10 @@
 
 				<!-- Social Box -->
 				<div class="social-box">
-					<a href="#"><span class="fa fa-twitter"></span></a>
-					<a href="#"><span class="fa fa-pinterest-p"></span></a>
-					<a href="#"><span class="fa fa-facebook-f"></span></a>
-					<a href="#"><span class="fa fa-instagram"></span></a>
-					<a href="#"><span class="fa fa-linkedin"></span></a>
+					<a href="https://www.youtube.com/@riogranites"><span class="fa fa-youtube"></span></a>
+					<!-- <a href="#"><span class="fa fa-pinterest-p"></span></a> -->
+					<a href="https://www.facebook.com/riograniteofficial"><span class="fa fa-facebook-f"></span></a>
+					<a href="https://www.instagram.com/rio_granite/"><span class="fa fa-instagram"></span></a>
 				</div>
 
 			</div>

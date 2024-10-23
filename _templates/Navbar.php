@@ -67,16 +67,16 @@
               <div class="social-outer-box">
                 <ul class="social-links">
                   <li>
-                    <a href="#"><span class="fa fa-youtube"></span></a>
+                    <a href="https://www.youtube.com/@riogranites"><span class="fa fa-youtube"></span></a>
                   </li>
-                  <li>
+                  <!-- <li>
                     <a href="#"><span class="fa fa-pinterest-p"></span></a>
+                  </li> -->
+                  <li>
+                    <a href="https://www.facebook.com/riograniteofficial"><span class="fa fa-facebook-f"></span></a>
                   </li>
                   <li>
-                    <a href="#"><span class="fa fa-facebook-f"></span></a>
-                  </li>
-                  <li>
-                    <a href="#"><span class="fa fa-instagram"></span></a>
+                    <a href="https://www.instagram.com/rio_granite/"><span class="fa fa-instagram"></span></a>
                   </li>
                 </ul>
               </div>

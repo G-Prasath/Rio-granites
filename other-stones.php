@@ -36,11 +36,11 @@
         <section class="page-title" style="background-image:url(images/other-stones/banner.jpg)">
             <div class="auto-container">
                 <div class="content">
-                    <h2>About Me</h2>
-                    <div class="text">Architect & Interior Designer</div>
+                    <h2>Other Stones</h2>
+                    <div class="text">Exploring the Beauty of Natural Stones</div>
                     <ul class="page-breadcrumb">
-                        <li><a href="#">Home</a></li>
-                        <li>About Me</li>
+                        <li><a href="index.php">Home</a></li>
+                        <li>Other Stones</li>
                     </ul>
                 </div>
             </div>
@@ -50,8 +50,8 @@
         <!-- OTHERS 1 -->
         <div class="sec-title centered" style="margin-top: 100px">
             <div class="inner-title">
-                <div class="title">What's happening</div>
-                <h2>News & Updates .</h2>
+                <div class="title">Gallery</div>
+                <h2>Discovering Unique Stone Varieties.</h2>
             </div>
         </div>
 

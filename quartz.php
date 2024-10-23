@@ -74,11 +74,11 @@ $galleryItems = [
 		<section class="page-title" style="background-image:url(images/quartz/banner.avif)">
 			<div class="auto-container">
 				<div class="content">
-					<h2>Marbles</h2>
-					<div class="text">Architect & Interior Designer</div>
+					<h2>Quartz</h2>
+					<div class="text">Unveiling the Versatility of Quartz Stone</div>
 					<ul class="page-breadcrumb">
 						<li><a href="#">Home</a></li>
-						<li>About Me</li>
+						<li>Quartz</li>
 					</ul>
 				</div>
 			</div>
@@ -106,26 +106,20 @@ $galleryItems = [
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<div class="inner-title">
-									<div class="title">Marbles service</div>
+									<div class="title">Quartz service</div>
 									<h2>
-										We are passionate and always <br />
-										built stunning architectures .
+										Discover the Beauty of Quartz Stone.
 									</h2>
 								</div>
 							</div>
 							<div class="text">
-								Beyond more stoic this along goodness hey this this wow
-								manatee mongoose one as since a far flustered impressive
-								manifest far crud opened inside owing punitively around
-								forewent and after wasteful telling sprang coldly and spoke
-								less clients. Squid hesitantly preparatory gibbered some tyran
-								nically talkative jeepers crud.
+							Quartz stone is an engineered material that combines natural quartz crystals with resin, creating durable and beautiful surfaces. Its non-porous nature ensures hygiene, while a wide range of colors and patterns offers versatile design options. Whether for modern elegance or classic appeal, quartz stone enhances any interior with sophistication.
 							</div>
 							<ul class="list-style-one">
-								<li>We create spaces that allows to feel satisfied</li>
-								<li>Provide the most optimal interior design solutions</li>
-								<li>Focuses on fresh design ideas for clients</li>
-								<li>Higher level of supervision to perform well</li>
+								<li>Exceptional Durability and Resilience</li>
+								<li>A Diverse Range of Colors and Patterns</li>
+								<li>Easy Maintenance for Busy Lifestyles</li>
+								<li>Non-Porous Surface for Hygiene and Safety</li>
 							</ul>
 						</div>
 					</div>
@@ -151,13 +145,11 @@ $galleryItems = [
 								<span class="icon flaticon-sketch"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Eye-Catching Design</a>
+								<a href="service-architecture.html">Benefits of Quartz</a>
 							</h3>
 							<div class="service-number">01</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+							Quartz offers exceptional durability, a non-porous surface that resists stains and bacteria, and a vast array of colors and patterns, ensuring both beauty and functionality.
 							</div>
 						</div>
 					</div>
@@ -172,13 +164,11 @@ $galleryItems = [
 								<span class="icon flaticon-blueprint"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Crafted With Love</a>
+								<a href="service-architecture.html">Design Inspiration</a>
 							</h3>
 							<div class="service-number">02</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+							Explore stunning design possibilities with quartz, perfect for kitchens and bathrooms. Its diverse colors and patterns create unique aesthetics, enhancing any interior style.
 							</div>
 						</div>
 					</div>
@@ -193,13 +183,11 @@ $galleryItems = [
 								<span class="icon flaticon-metering"></span>
 							</div>
 							<h3>
-								<a href="service-architecture.html">Perfectioned In Style</a>
+								<a href="service-architecture.html">Customization Options</a>
 							</h3>
 							<div class="service-number">03</div>
 							<div class="text">
-								Convenire gubergren vix. Habeo facete pri put ent maluisset
-								intellegam vixt vim prompta facil isi interesset. An denique
-								praesent pro in torqu malis summo ut. Ex ipsum dolore.
+							Quartz offers extensive customization options, allowing you to choose colors, finishes, and sizes tailored to your space, ensuring a perfect fit for your design vision.
 							</div>
 						</div>
 					</div>
@@ -214,12 +202,10 @@ $galleryItems = [
 				<!-- Sec Title -->
 				<div class="sec-title style-two centered">
 					<div class="inner-title">
-						<div class="title">bespoke Quality</div>
-						<h2>Latest Arrivals at Title .</h2>
+						<div class="title">Gallery</div>
+						<h2>Quartz Showcase</h2>
 						<div class="text">
-							Convenire gubergren vix. Habeo facete pri putent malu intellegam
-							vixt prompta <br />
-							facil teresed denique praes ent pro vemin torqu malis noe kxeas.
+						Explore our exquisite quartz collection, featuring exceptional craftsmanship and vibrant designs that elevate your spaces with timeless elegance.
 						</div>
 					</div>
 				</div>
@@ -261,24 +247,18 @@ $galleryItems = [
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<div class="inner-title">
-									<div class="title">bespoke Quality of Title</div>
-									<h2>World-Class Services .</h2>
+									<div class="title">Use Case</div>
+									<h2>The Usability of Quartz.</h2>
 								</div>
 							</div>
 							<div class="text">
 								<p>
-									Beyond more stoic this along goodness this this wow ipsum
-									sed mante far impressive manifest farcrud opened inside.
+								Quartz stands out for its versatility, seamlessly integrating into various spaces. Its striking aesthetics enhance kitchens, bathrooms, and commercial areas, making it a favored choice among designers.
 								</p>
 								<p>
-									Fustered impressive manifest crud opened insid wing
-									punitively around went and after wasteful telling spang
-									coldly and spoke les clients hesit antly preparatory
-									gibbered some tyran nically talkative jepers to decore que
-									philosophia volputate eumuas.
+								Moreover, quartz’s durability against stains and scratches ensures it remains beautiful over time, combining form with function. Whether used for countertops or backsplashes, quartz adds elegance and sophistication to any design with its wide array of colors and patterns.
 								</p>
 							</div>
-							<a href="#" class="theme-btn btn-style-two">learn more</a>
 						</div>
 					</div>
 
@@ -296,15 +276,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										The planning to peforme well
+										Does quartz stain easily?
 									</div>
 									<div class="acc-content current">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											QNo, quartz is non-porous and resists staining.
 											</div>
 										</div>
 									</div>
@@ -319,15 +296,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										We have client’s vision in mind
+										Is quartz resistant to staining?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Yes, quartz is non-porous, which means it resists staining and is easy to clean, making it an ideal choice for kitchens and bathrooms.
 											</div>
 										</div>
 									</div>
@@ -342,15 +316,12 @@ $galleryItems = [
 											<span
 												class="icon icon-minuss flaticon-substract"></span>
 										</div>
-										Advantage of quick project delivery
+										Is quartz durable?
 									</div>
 									<div class="acc-content">
 										<div class="content">
 											<div class="text">
-												Convenire gubergren vix. Habeo facete pri put ent
-												maluisset intellegam vixt vim prompta facilisi
-												interesset. An denique praesent pro in torqumalis
-												summo sed ipsum volputate exea ipsum dolore.
+											Yes, quartz is highly durable and resistant to scratches.
 											</div>
 										</div>
 									</div>
