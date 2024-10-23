@@ -33,13 +33,13 @@
 		<!-- End Main Header -->
 
 		<!-- Page Title -->
-		<section class="page-title" style="background-image:url(images/background/17.jpg)">
+		<section class="page-title" style="background-image:url(images/about//about-banner.jpg)">
 			<div class="auto-container">
 				<div class="content">
 					<h2>About </h2>
-					<div class="text">Bespoke Interior & Architecture Designing</div>
+					<div class="text">Crafting Excellence in Stone</div>
 					<ul class="page-breadcrumb">
-						<li><a href="#">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li>About</li>
 					</ul>
 				</div>
@@ -55,7 +55,7 @@
 					<div class="image-column col-lg-4 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<div class="image">
-								<img src="images/resource/about-5.jpg" alt="" />
+								<img src="images/about/about-profile.avif" alt="" />
 							</div>
 						</div>
 					</div>
@@ -65,16 +65,23 @@
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<div class="inner-title">
-									<div class="title">about service</div>
-									<h2>We are passionate and always <br> built stunning architectures .</h2>
+									<div class="title">Overview</div>
+									<h2>History and Foundations</h2>
 								</div>
 							</div>
-							<div class="text">Beyond more stoic this along goodness hey this this wow manatee mongoose one as since a far flustered impressive manifest far crud opened inside owing punitively around forewent and after wasteful telling sprang coldly and spoke less clients. Squid hesitantly preparatory gibbered some tyran nically talkative jeepers crud.</div>
+							<div class="text" style="text-align: justify;">Rio Granites a subsidiary company of Shreesh Enterprises was
+								established in the year 2020 in Chennai, Tamilnadu by
+								N.Jaiganesh who is also the Managing Director of the company.
+								The company engage to produce and deliver best quality granites
+								and other natural stones like Marble, Tandur stone ,Kota ,etc. The
+								company opened its stockyard in Maduravoyal, Alapakkam Main
+								Road and since then the company has been attaining glory by
+								producing satisfactory customers.</div>
 							<ul class="list-style-one">
-								<li>We create spaces that allows to feel satisfied</li>
-								<li>Provide the most optimal interior design solutions</li>
-								<li>Focuses on fresh design ideas for clients</li>
-								<li>Higher level of supervision to perform well</li>
+								<li>High-Quality Materials</li>
+								<li>Extensive Product Range</li>
+								<li>Custom Solutions</li>
+								<li>Customer-Focused Service</li>
 							</ul>
 						</div>
 					</div>
@@ -84,24 +91,9 @@
 		<!-- End About Section Three -->
 
 		<!-- Branded Section / Style Two-->
-		<section class="branded-section style-two" style="background-image:url(images/background/18.jpg)">
+		<section class="branded-section style-two" style="background-image:url(images/about/vm-bg.avif)">
 			<div class="auto-container">
-				<!-- Title Box -->
-				<div class="title-box">
-					<!-- Sec Title -->
-					<div class="sec-title light">
-						<div class="clearfix">
-							<div class="pull-left">
-								<div class="title">Branded Services</div>
-								<h2>Approach to enhance <br> the branding experience .</h2>
-							</div>
-							<div class="pull-right">
-								<div class="text">Along goodness hey this sed ipsum dui manatee for the one asfers since far flustered <br> impressive your longtails opened inside owing ipsum epunitively. Nehil moderatius <br> vimpot dish euitas iuvaret reformid.</div>
-							</div>
-						</div>
-					</div>
 
-				</div>
 
 				<!-- Lower Section -->
 				<div class="lower-section">
@@ -113,14 +105,14 @@
 								<div class="upper-box">
 									<div class="upper-inner">
 										<div class="image">
-											<img src="images/resource/brand-1.jpg" alt="" />
+											<img src="images/about/mission.png" style="width: 100px;" alt="" />
 										</div>
 									</div>
 								</div>
 								<div class="lower-box">
 									<div class="box-inner">
-										<h3>Emphasize the use of natural resources, opportunities for use .</h3>
-										<div class="text">Fustered impressive manifest crud ipsum opens forewent and after wasteful telling prang squid hesitantly preparatory gibbe red som decore rec sed ipsum teque philosophia.</div>
+										<h3>Mission Statement</h3>
+										<div class="text">Our mission is to provide top-quality materials at affordable prices. We strive for perfection and customer satisfaction, and we proudly say we've achieved that with our products.</div>
 									</div>
 								</div>
 							</div>
@@ -132,14 +124,14 @@
 								<div class="upper-box">
 									<div class="upper-inner">
 										<div class="image">
-											<img src="images/resource/brand-3.jpg" alt="" />
+											<img src="images/about/vision.png" style="width: 100px;" alt="" />
 										</div>
 									</div>
 								</div>
 								<div class="lower-box">
 									<div class="box-inner">
-										<h3>Works carefully with clients requirments and execution.</h3>
-										<div class="text">Fustered impressive manifest crud ipsum opens forewent and after wasteful telling prang squid hesitantly preparatory gibbe red som decore rec sed ipsum teque philosophia.</div>
+										<h3>Vision Statement</h3>
+										<div class="text">Our vision is to be admired by customers, employees, and business partners for the exceptional experience and value they gain from working with us.</div>
 									</div>
 								</div>
 							</div>
@@ -161,11 +153,12 @@
 					<div class="content-column col-lg-6 col-sm-12 col-xs-12">
 						<div class="inner-box">
 							<div class="sec-title">
-								<h2>Providing Customized Design <br> Solutions That Fits Every Space .</h2>
+								<h2>Development</h2>
 							</div>
 							<div class="text">
-								<p>Beyond more stoic this along goodness hey this this wow ipsum manate far impressive manifest farcrud opened inside.</p>
-								<p>Fustered impressive manifest crud opened inside owing punitively around forewent and after wasteful telling sprang coldly and spoke less clients. Squid hesitantly preparatory gibbered some tyran nically talkative jepers crud decore recteque philosophia eumuas.</p>
+								<p style="text-align: justify;">
+								In 2007, Shreesh Enterprises began its journey by acquiring its first granite factory in Vellore with a capacity of 4 units. By 2010, another factory was added in Chittoor, expanding the operation further</p>
+								<p style="text-align: justify;">In 2015, the company ventured into raw block exports by purchasing a Black Granite Quarry in Pilur. Fast forward to 2021, Rio Granite partnered with major factories across India, significantly enhancing its range of granite products for both domestic and international markets.</p>
 							</div>
 						</div>
 					</div>
@@ -180,7 +173,7 @@
 								<!--Skill Item-->
 								<div class="skill-item">
 									<div class="skill-header clearfix">
-										<div class="skill-title">Architecture Design</div>
+										<div class="skill-title">Industry Experience</div>
 										<div class="skill-percentage">
 											<div class="count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span>%</div>
 										</div>
@@ -195,7 +188,7 @@
 								<!--Skill Item-->
 								<div class="skill-item">
 									<div class="skill-header clearfix">
-										<div class="skill-title">CAD Engineering</div>
+										<div class="skill-title">Extensive Design Variety</div>
 										<div class="skill-percentage">
 											<div class="count-box"><span class="count-text" data-speed="2000" data-stop="70">0</span>%</div>
 										</div>
@@ -248,7 +241,7 @@
 		<!-- End Solution Section -->
 
 		<!-- Testimonial Section -->
-		<section class="testimonial-section" style="background-image:url(images/background/3.jpg)">
+		<section class="testimonial-section" style="background-image:url(images/about/tst-bg.avif)">
 			<div class="auto-container">
 				<div class="testimonial-carousel owl-carousel owl-theme">
 
@@ -256,9 +249,9 @@
 					<div class="testimonial-block">
 						<div class="inner-box">
 							<div class="quote-icon flaticon-left-quote"></div>
-							<div class="title">- Title -</div>
-							<div class="text">Habeo facete pri ei. Putent maluisset intellegam vix te, vim prompta facilisi interesset te. An denique praesent pro torquatos adipiscing pro, pro no odio modus. Mea malis summo ut. Ex ipsum dolore assueverit nec, facer imperdiet etduo, cu postea laoreet vulputate has. Beyond more stoic this along goodness hey this this wow manatee mongoose one as since a far flustered impressive manifest far crud opened inside owing punitively around</div>
-							<div class="author-name">thomas henry</div>
+							<div class="title">- Exceptional Granite Quality -</div>
+							<div class="text">Rio Granites exceeded our expectations with their premium granite selections. Our kitchen renovation was seamless, and the final product is both durable and beautiful. The entire process was handled professionally, and we couldn't be happier with the results.</div>
+							<div class="author-name">Aarav Patel, Homeowner</div>
 						</div>
 					</div>
 
@@ -266,9 +259,9 @@
 					<div class="testimonial-block">
 						<div class="inner-box">
 							<div class="quote-icon flaticon-left-quote"></div>
-							<div class="title">- Title -</div>
-							<div class="text">Habeo facete pri ei. Putent maluisset intellegam vix te, vim prompta facilisi interesset te. An denique praesent pro torquatos adipiscing pro, pro no odio modus. Mea malis summo ut. Ex ipsum dolore assueverit nec, facer imperdiet etduo, cu postea laoreet vulputate has. Beyond more stoic this along goodness hey this this wow manatee mongoose one as since a far flustered impressive manifest far crud opened inside owing punitively around</div>
-							<div class="author-name">thomas henry</div>
+							<div class="title">- Perfect for Interior Design Projects -</div>
+							<div class="text">As an interior designer, I require top-quality materials for my clients. Rio Granites offered a wide variety of granite options that fit perfectly into my designs. Their attention to detail and craftsmanship made the entire project a success, and my clients are thrilled.</div>
+							<div class="author-name">Samantha Verma, Interior Designer</div>
 						</div>
 					</div>
 
@@ -276,9 +269,9 @@
 					<div class="testimonial-block">
 						<div class="inner-box">
 							<div class="quote-icon flaticon-left-quote"></div>
-							<div class="title">- Title -</div>
-							<div class="text">Habeo facete pri ei. Putent maluisset intellegam vix te, vim prompta facilisi interesset te. An denique praesent pro torquatos adipiscing pro, pro no odio modus. Mea malis summo ut. Ex ipsum dolore assueverit nec, facer imperdiet etduo, cu postea laoreet vulputate has. Beyond more stoic this along goodness hey this this wow manatee mongoose one as since a far flustered impressive manifest far crud opened inside owing punitively around</div>
-							<div class="author-name">thomas henry</div>
+							<div class="title">- Reliable Partner for Construction Projects -</div>
+							<div class="text">We’ve worked with Rio Granites on multiple construction projects, and they consistently deliver high-quality granite with impeccable craftsmanship. Their extensive variety of stone and professionalism make them a trusted partner for all our building needs</div>
+							<div class="author-name">Rahul Mehta, Construction Contractor</div>
 						</div>
 					</div>
 
@@ -395,168 +388,9 @@
 		</section>
 		<!-- End Team Section -->
 
-		<!-- Projects Section Two -->
-		<section class="project-section-two style-two">
-			<div class="outer-container">
-				<div class="four-item-carousel owl-carousel owl-theme">
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/22.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/22.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/23.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/23.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/24.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/24.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Project Block Two -->
-					<div class="project-block-two">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/25.jpg" alt="" />
-								<!-- Overlay Box -->
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="overlay-content">
-											<a class="plus" href="images/gallery/25.jpg" data-fancybox="gallery-1" data-caption=""><span class="flaticon-full-screen"></span></a>
-											<h3>Portion Interior</h3>
-											<div class="category">Home Design</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</section>
-		<!-- End Projects Section Two -->
+		<!-- FOOTER SCROLL -->
+		<?php include_once('./_templates/FooterScroll.php') ?>
+		<!-- End FOOTER SCROLL -->
 
 		<!-- Start Main Footer -->
 		<?php include_once('./_templates/Footer.php') ?>
