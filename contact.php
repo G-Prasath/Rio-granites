@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Title - HTML Template | Contact </title>
+	<title>Contact Us</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 
@@ -62,22 +62,22 @@
 				<div class="contact-form">
 
 					<!--Contact Form-->
-					<form method="post" action="sendemail.php" id="contact-form">
+					<form method="post" action="mail.php" id="contact-form">
 						<div class="row clearfix">
 							<div class="form-group col-lg-6 col-md-6 col-sm-12">
-								<input type="text" name="username" placeholder="Name" required>
+								<input type="text" name="name" placeholder="Name" required autocomplete="off">
 							</div>
 
 							<div class="form-group col-lg-6 col-md-6 col-sm-12">
-								<input type="text" name="email" placeholder="Email" required>
+								<input type="text" name="email" placeholder="Email" required autocomplete="off">
 							</div>
 
 							<div class="form-group col-lg-6 col-md-6 col-sm-12">
-								<input type="text" name="service" placeholder="Serivce you interested in" required>
+								<input type="text" name="stones" placeholder="Needed Stones" required autocomplete="off">
 							</div>
 
 							<div class="form-group col-lg-6 col-md-6 col-sm-12">
-								<input type="text" name="phone" placeholder="Phone" required>
+								<input type="text" name="phone" placeholder="Phone" required autocomplete="off">
 							</div>
 
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">

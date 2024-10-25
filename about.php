@@ -1,3 +1,23 @@
+<?php
+$teamData = [
+	[
+		'name' => 'Shreesh',
+		'role' => 'Managing Director',
+		'contact' => '+91 73959 12679'
+	],
+	[
+		'name' => 'Jaiganesh',
+		'role' => 'Founder',
+		'contact' => '+91 70101 47530'
+	],
+	[
+		'name' => 'Viswesh',
+		'role' => 'Managing Director',
+		'contact' => '+91 63817 48535'
+	],
+]
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -157,7 +177,7 @@
 							</div>
 							<div class="text">
 								<p style="text-align: justify;">
-								In 2007, Shreesh Enterprises began its journey by acquiring its first granite factory in Vellore with a capacity of 4 units. By 2010, another factory was added in Chittoor, expanding the operation further</p>
+									In 2007, Shreesh Enterprises began its journey by acquiring its first granite factory in Vellore with a capacity of 4 units. By 2010, another factory was added in Chittoor, expanding the operation further</p>
 								<p style="text-align: justify;">In 2015, the company ventured into raw block exports by purchasing a Black Granite Quarry in Pilur. Fast forward to 2021, Rio Granite partnered with major factories across India, significantly enhancing its range of granite products for both domestic and international markets.</p>
 							</div>
 						</div>
@@ -290,98 +310,32 @@
 						<div class="col-lg-5 col-md-12 col-sm-12">
 							<div class="inner-title">
 								<div class="title">Passionate team</div>
-								<h2>Creative Minds Always <br> Think Someting .</h2>
+								<h2>The People Behind the Vision</h2>
 							</div>
 						</div>
 						<div class="col-lg-7 col-md-12 col-sm-12">
-							<div class="text">Bar flustered impressive manifest far crud opened inside owing punitively around forewent and after wasteful telling sprang coldly and spoke less clients.</div>
+							<div class="text">Our talented team works across departments to deliver top-tier results, combining excellence, innovation, and a client-first approach for every project.</div>
 						</div>
 					</div>
 				</div>
 
 				<div class="row clearfix">
 
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-1.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="phone"><span>Phone:</span> <a href="tel:+12345018607">+1 (234) 501 8607</a></div>
-
-										</div>
+					<?php foreach ($teamData as $item): ?>
+						<!-- Team Block -->
+						<div class="team-block col-lg-4 col-md-6 col-sm-12">
+							<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+								<div class="lower-content">
+									<h3><?php echo $item['name'] ?></h3>
+									<div class="designation" style="margin-bottom: 10px;"><?php echo $item['role'] ?></div>
+									<div style="display: flex; align-items: center; width: 100%;">
+										<span class="icon icon-call-in" style="margin-right: 10px; color: #e9c37a;"></span>
+										<a href="tel:+91<?php echo $item['contact'] ?>"><?php echo $item['contact'] ?></a>
 									</div>
 								</div>
 							</div>
-							<div class="lower-content">
-								<h3><a href="about-me.html">Robert Vyner</a></h3>
-								<div class="designation">founder</div>
-							</div>
 						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-2.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="phone"><span>Phone:</span> <a href="tel:+12345018607">+1 (234) 501 8607</a></div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3><a href="about-me.html">Scott K. Irvine</a></h3>
-								<div class="designation">ARCHITECT</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-3.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="phone"><span>Phone:</span> <a href="tel:+12345018607">+1 (234) 501 8607</a></div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3><a href="about-me.html">Winnie Jones</a></h3>
-								<div class="designation">designer</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-4.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="phone"><span>Phone:</span> <a href="tel:+12345018607">+1 (234) 501 8607</a></div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="lower-content">
-								<h3><a href="about-me.html">Lewis Kubica</a></h3>
-								<div class="designation">manager</div>
-							</div>
-						</div>
-					</div>
-
+					<?php endforeach; ?>
 				</div>
 
 			</div>

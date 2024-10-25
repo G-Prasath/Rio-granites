@@ -695,13 +695,14 @@
         <!-- Contact Form -->
         <div class="contact-form">
           <!--Contact Form-->
-          <form method="post" action="sendemail.php" id="contact-form">
+          <form method="post" action="mail.php" id="contact-form">
             <div class="row clearfix">
               <div class="form-group col-lg-6 col-md-6 col-sm-12">
                 <input
                   type="text"
-                  name="username"
+                  name="name"
                   placeholder="Name"
+                  autocomplete="off"
                   required />
               </div>
 
@@ -710,14 +711,16 @@
                   type="text"
                   name="email"
                   placeholder="Email"
+                  autocomplete="off"
                   required />
               </div>
 
               <div class="form-group col-lg-6 col-md-6 col-sm-12">
                 <input
                   type="text"
-                  name="text"
-                  placeholder="Serice you interested in"
+                  name="stones"
+                  placeholder="Needed Stones"
+                  autocomplete="off"
                   required />
               </div>
 
@@ -726,6 +729,7 @@
                   type="text"
                   name="phone"
                   placeholder="Phone"
+                  autocomplete="off"
                   required />
               </div>
 
