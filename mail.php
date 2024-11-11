@@ -25,14 +25,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $mail->isSMTP();                            // Use SMTP
         $mail->Host       = 'smtp.gmail.com';       // Set the SMTP server
         $mail->SMTPAuth   = true;                   // Enable SMTP authentication
-        $mail->Username   = 'eeplmlcp@gmail.com'; // SMTP username (your email)
-        $mail->Password   = 'ktbmcpffapyeqxcp';        // SMTP password (or app password)
+        $mail->Username   = 'riogranites@gmail.com'; // SMTP username (your email)
+        $mail->Password   = 'ejbxroipxqigkytu';        // SMTP password (or app password)
         $mail->SMTPSecure = 'tls';                  // Enable TLS encryption
         $mail->Port       = 587;                    // TCP port to connect to
 
         // Recipients
-        $mail->setFrom("guruprasathmsc@gmail.com", "Enquiry Mail");              // Set the sender's email and name
-        $mail->addAddress('guruprasathmsc@gmail.com'); // Add your recipient's email address
+        $mail->setFrom("riogranites@gmail.com", "Enquiry Mail");              // Set the sender's email and name
+        $mail->addAddress('riogranites@gmail.com'); // Add your recipient's email address
 
         // Content
         $mail->isHTML(true);                        // Set email format to HTML

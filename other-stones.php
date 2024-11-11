@@ -39,7 +39,7 @@
                     <h2>Other Stones</h2>
                     <div class="text">Exploring the Beauty of Natural Stones</div>
                     <ul class="page-breadcrumb">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>Other Stones</li>
                     </ul>
                 </div>

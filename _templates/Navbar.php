@@ -5,7 +5,7 @@
             <div class="clearfix header-mob-alter">
               <div class="pull-left logo-box">
                 <div class="logo">
-                  <a href="index.php"
+                  <a href="/"
                     ><img src="./images/home/logos.jpeg" style="width: 100px; border-radius: 100%;" alt="Logo"></a>
                 </div>
               </div>
@@ -39,7 +39,7 @@
                     id="navbarSupportedContent"
                   >
                     <ul class="navigation clearfix">
-                      <li><a href="index.php">Home</a></li>
+                      <li><a href="/">Home</a></li>
                       <li><a href="about.php">About Us</a></li>
                       <li class="dropdown">
                         <a href="javascript:;" style="cursor: default;">Products</a>
@@ -90,7 +90,7 @@
           <div class="auto-container clearfix">
             <!--Logo-->
             <div class="logo pull-left">
-              <a href="index.php" class="img-responsive"
+              <a href="/" class="img-responsive"
                 ><img src="./images/home/logos.jpeg" style="width: 100px; border-radius: 50%;" alt="Logo"></a>
             </div>
 

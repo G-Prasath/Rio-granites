@@ -56,7 +56,7 @@
                             <div class="footer-widget links-widget">
                                 <h2>Usefull Links</h2>
                                 <ul class="footer-list">
-                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li><a href="about.php">About</a></li>
                                     <li><a href="contact.php">Contact us</a></li>
                                 </ul>

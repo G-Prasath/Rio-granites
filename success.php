@@ -51,13 +51,13 @@
 <div class="success-container">
     <h1>Thank You!</h1>
     <p>Your message has been successfully sent. We will get back to you shortly.</p>
-    <a href="index.php">Go Back to Home</a>
+    <a href="/">Go Back to Home</a>
 </div>
 
 
 <script>
     setTimeout(function() {
-        window.location.href = 'index.php'; // Redirect to homepage after 1 second
+        window.location.href = '/'; // Redirect to homepage after 1 second
     }, 3000); // 1000 milliseconds = 1 second
 </script>
 </body>

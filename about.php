@@ -59,7 +59,7 @@ $teamData = [
 					<h2>About </h2>
 					<div class="text">Crafting Excellence in Stone</div>
 					<ul class="page-breadcrumb">
-						<li><a href="index.php">Home</a></li>
+						<li><a href="/">Home</a></li>
 						<li>About</li>
 					</ul>
 				</div>

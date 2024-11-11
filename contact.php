@@ -36,7 +36,7 @@
 					<h2>Contact us</h2>
 					<div class="text">Reach Out for More Information</div>
 					<ul class="page-breadcrumb">
-						<li><a href="index.php">Home</a></li>
+						<li><a href="/">Home</a></li>
 						<li>Contact us</li>
 					</ul>
 				</div>
@@ -104,12 +104,53 @@
 						<!-- Sec Title -->
 						<div class="sec-title style-three">
 							<div class="inner-title">
+								<h2>Showroom Address</h2>
+							</div>
+						</div>
+						<ul class="list-style-two">
+							<li>
+								<span class="icon icon-pin"></span>
+								<i>Address: </i>138, 100 Feet Rd, Senthil Nagar, Loganathan Nagar, Padmanabha Nagar, Choolaimedu, chennai 600094
+							</li>
+							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:04423610155">044 2361 0155</a></li>
+							<!-- <li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li> -->
+						</ul>
+					</div>
+
+					<div class="column col-lg-6 col-md-12 col-sm-12">
+						<!-- Sec Title -->
+						<div class="sec-title style-three">
+							<div class="inner-title">
+								<h2>Granite Yard Address</h2>
+							</div>
+						</div>
+						<ul class="list-style-two">
+							<li><span class="icon icon-pin"></span> <i>Address: </i>267/2A, Alapakkam Main Rd, Chozhan Nagar, Maduravoyal, Chennai - 600095</li>
+							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:04423610155">044 2361 0155</a></li>
+							<!-- <li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li> -->
+						</ul>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- End Contact Info Section -->
+
+		<!-- Contact Info Section -->
+		<section class="contact-info-section">
+			<div class="auto-container">
+				<div class="row clearfix">
+
+					<div class="column col-lg-6 col-md-12 col-sm-12">
+						<!-- Sec Title -->
+						<div class="sec-title style-three">
+							<div class="inner-title">
 								<h2>Yard Address</h2>
 							</div>
 						</div>
 						<ul class="list-style-two">
 							<li>
-								<span class="icon icon-pin"></span> 
+								<span class="icon icon-pin"></span>
 								<i>Address: </i>271, 1A1, Alapakkam Main Rd, Janaki Nagar, Maduravoyal, Chennai
 							</li>
 							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:+917010147530">+91 70101 47530</a></li>
@@ -125,7 +166,7 @@
 							</div>
 						</div>
 						<ul class="list-style-two">
-							<li><span class="icon icon-pin"></span> <i>Address: </i>20/1,amirthi road,sirukalambur,thutipet post,<br/>vellore-58</li>
+							<li><span class="icon icon-pin"></span> <i>Address: </i>20/1,amirthi road,sirukalambur,thutipet post,<br />vellore-58</li>
 							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:+917395912679">+91 73959 12679</a></li>
 							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li>
 						</ul>
