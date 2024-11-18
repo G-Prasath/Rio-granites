@@ -113,7 +113,7 @@
 								<i>Address: </i>138, 100 Feet Rd, Senthil Nagar, Loganathan Nagar, Padmanabha Nagar, Choolaimedu, chennai 600094
 							</li>
 							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:04423610155">044 2361 0155</a></li>
-							<!-- <li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li> -->
+							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:shreeshenterprises144@gmail.com">shreeshenterprises144@gmail.com</a></li>
 						</ul>
 					</div>
 
@@ -127,7 +127,7 @@
 						<ul class="list-style-two">
 							<li><span class="icon icon-pin"></span> <i>Address: </i>267/2A, Alapakkam Main Rd, Chozhan Nagar, Maduravoyal, Chennai - 600095</li>
 							<li><span class="icon icon-call-in"></span> <i>Phone: </i><a href="tel:04423610155">044 2361 0155</a></li>
-							<!-- <li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:riogranites@gmail.com">riogranites@gmail.com</a></li> -->
+							<li><span class="icon icon-envelope"></span> <i>Email: </i><a href="mailto:shreeshenterprises144@gmail.com">shreeshenterprises144@gmail.com</a></li>
 						</ul>
 					</div>
 
